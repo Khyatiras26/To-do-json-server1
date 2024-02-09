@@ -1,0 +1,40 @@
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 30px;
+  padding-left: 20px;
+  margin-bottom: 25px;
+  background: #edeef0;
+}
+
+.input-box{
+  flex: 1;
+  border: none;
+  outline: none;
+  background: transparent;
+  padding: 10px;
+}
+
+.btn-submit {
+  padding: 16px 50px;
+  font-size: 16px;
+  font-weight: bold;
+  border: none;
+  outline: none;
+  border-radius: 40px;
+  background: #650138c0;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.btn-submit:hover{
+  background-color: #143427;
+  border-color: #132d20;
+}
+
+.btn-submit:active{
+  background-color: #0f2b11;
+  border-color: #10382d;
+}

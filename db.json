@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": "df9c",
+      "title": "Buy oranges",
+      "completed": false,
+      "createdAt": "2024-02-08T09:58:59.908Z"
+    },
+    {
+      "id": "1432",
+      "title": "Do coding",
+      "completed": false,
+      "createdAt": "2024-02-08T09:59:20.109Z"
+    },
+    {
+      "id": "2b80",
+      "title": "Complete task",
+      "completed": false,
+      "createdAt": "2024-02-08T10:01:49.066Z"
+    },
+    {
+      "id": "7171",
+      "title": "Eat dinner",
+      "completed": false,
+      "createdAt": "2024-02-08T10:10:57.266Z"
+    },
+    {
+      "id": "ecdd",
+      "title": "Go market and buy fruits",
+      "completed": false,
+      "createdAt": "2024-02-09T08:32:39.790Z"
+    }
+  ]
+}
